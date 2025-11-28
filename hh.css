@@ -1,0 +1,55 @@
+*{
+padding: 0;
+margin:o;
+color:white;
+
+
+}
+#navbar{
+
+    height:60px;
+    background-color:#0f1111;
+}
+button{
+background-color:#f08804;
+
+
+
+}
+#logo{
+
+    color:#f08804;
+    font-size: 25px;
+}
+a{
+    margin-right:150px;
+    text-decoration:none;
+}
+.contentbox{
+    height:100px;
+    width:200px;
+    border:2px solid black;
+    display:inline-block; 
+}
+footer{
+    color:black;
+}
+footer{
+
+    background-color:black; 
+    color:white;
+    text-align:center;
+
+}
+#content{
+    height:700px;
+}
+placeholder{
+    color:#0f1111;
+}
+form{
+    color:#0f1111;
+}
+body{
+    color:black;
+}
