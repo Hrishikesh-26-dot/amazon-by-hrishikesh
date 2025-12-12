@@ -26,15 +26,15 @@ a{
     text-decoration:none;
 }
 .contentbox{
-    height:100px;
-    width:200px;
+    height:900px;
+    width:1800px;
     border:2px solid black;
     display:inline-block; 
 }
 footer{
     color:black;
 }
-footer{
+#affiliation{ 
 
     background-color:black; 
     color:white;
